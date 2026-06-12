@@ -13,8 +13,6 @@ SI-MKP MBKM merupakan sistem informasi yang digunakan untuk mengelola proses Ker
 | Admin | Pengelolaan data sistem |
 
 
-
-
 ## BPMN
 
 ![BPMN](01_BPMN.png)
@@ -22,3 +20,12 @@ SI-MKP MBKM merupakan sistem informasi yang digunakan untuk mengelola proses Ker
 ### Penjelasan
 
 Diagram BPMN menggambarkan proses bisnis SI-MKP MBKM mulai dari proses pendaftaran mahasiswa, verifikasi dokumen, pelaksanaan program, monitoring kegiatan, penilaian, hingga penerbitan sertifikat.
+
+
+## Use Case Diagram
+
+![Use Case Diagram](02_UseCaseDiagram.png)
+
+### Penjelasan
+
+Use Case Diagram menggambarkan hubungan antara aktor dan sistem serta menunjukkan fungsi utama yang dapat dijalankan oleh masing-masing aktor dalam SI-MKP MBKM.
