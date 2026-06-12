@@ -11,3 +11,11 @@ SI-MKP MBKM merupakan sistem informasi yang digunakan untuk mengelola proses Ker
 | Mentor Industri | Verifikasi logbook dan penilaian |
 | Koordinator Program | Verifikasi dan approval |
 | Admin | Pengelolaan data sistem |
+
+## BPMN
+
+![BPMN](01_BPMN.png)
+
+### Penjelasan
+
+Diagram BPMN menggambarkan proses bisnis SI-MKP MBKM mulai dari proses pendaftaran mahasiswa, verifikasi dokumen, pelaksanaan program, monitoring kegiatan, penilaian, hingga penerbitan sertifikat.
