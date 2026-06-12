@@ -38,3 +38,12 @@ Use Case Diagram menggambarkan hubungan antara aktor dan sistem serta menunjukka
 ### Penjelasan
 
 Activity Diagram menggambarkan alur proses SI-MKP MBKM mulai dari pendaftaran program, verifikasi, pelaksanaan kegiatan, monitoring logbook, penilaian, konversi SKS MBKM, hingga penerbitan sertifikat digital.
+
+
+## Class Diagram
+
+![Class Diagram](04_ClassDiagram.png)
+
+### Penjelasan
+
+Class Diagram menunjukkan struktur data dan hubungan antar entitas yang digunakan dalam SI-MKP MBKM.
