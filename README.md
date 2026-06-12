@@ -65,3 +65,8 @@ Sequence Diagram menggambarkan urutan interaksi antara aktor dan sistem selama p
 ### Penjelasan
 
 ERD menggambarkan struktur basis data serta hubungan antar entitas yang digunakan dalam SI-MKP MBKM.
+
+
+## Kesimpulan
+
+SI-MKP MBKM dirancang untuk mengintegrasikan proses Kerja Praktik, Magang, dan MBKM dalam satu platform sehingga proses administrasi, monitoring, penilaian, dan dokumentasi kegiatan dapat dilakukan secara lebih efektif dan terstruktur.
