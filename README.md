@@ -29,3 +29,12 @@ Diagram BPMN menggambarkan proses bisnis SI-MKP MBKM mulai dari proses pendaftar
 ### Penjelasan
 
 Use Case Diagram menggambarkan hubungan antara aktor dan sistem serta menunjukkan fungsi utama yang dapat dijalankan oleh masing-masing aktor dalam SI-MKP MBKM.
+
+
+## Activity Diagram
+
+![Activity Diagram](03_ActivityDiagram.png)
+
+### Penjelasan
+
+Activity Diagram menggambarkan alur proses SI-MKP MBKM mulai dari pendaftaran program, verifikasi, pelaksanaan kegiatan, monitoring logbook, penilaian, konversi SKS MBKM, hingga penerbitan sertifikat digital.
