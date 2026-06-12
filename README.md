@@ -1,1 +1,1 @@
-# TugasPraktikum-APSI-SI-MKP-MBKM
+# Sistem Informasi Manajemen Magang, Kerja Praktik, dan MBKM (SI-MKP MBKM)
