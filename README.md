@@ -56,3 +56,12 @@ Class Diagram menunjukkan struktur data dan hubungan antar entitas yang digunaka
 ### Penjelasan
 
 Sequence Diagram menggambarkan urutan interaksi antara aktor dan sistem selama proses bisnis berlangsung.
+
+
+## Entity Relationship Diagram (ERD)
+
+![ERD](06_ERD.png)
+
+### Penjelasan
+
+ERD menggambarkan struktur basis data serta hubungan antar entitas yang digunakan dalam SI-MKP MBKM.
