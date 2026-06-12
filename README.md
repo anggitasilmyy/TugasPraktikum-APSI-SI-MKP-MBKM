@@ -47,3 +47,12 @@ Activity Diagram menggambarkan alur proses SI-MKP MBKM mulai dari pendaftaran pr
 ### Penjelasan
 
 Class Diagram menunjukkan struktur data dan hubungan antar entitas yang digunakan dalam SI-MKP MBKM.
+
+
+## Sequence Diagram
+
+![Sequence Diagram](05_SequenceDiagram.png)
+
+### Penjelasan
+
+Sequence Diagram menggambarkan urutan interaksi antara aktor dan sistem selama proses bisnis berlangsung.
